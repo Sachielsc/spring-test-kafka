@@ -7,6 +7,11 @@ image:https://codecov.io/gh/jupiter-tools/spring-test-kafka/branch/master/graph/
 
 Tools to write integration tests of Spring Framework with the Apache Kafka.
 
+## My fork info
+Originally forked from link:https://github.com/jupiter-tools/spring-test-kafka[jupiter-tools, target="_blank"]
+
+Check their official site link:https://jupiter-tools.com/[here, target="_blank"]
+
 ## Overview
 
 image:./images/spring-test-kafka-containers.png[redis container scheme]
